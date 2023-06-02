@@ -1,6 +1,23 @@
 body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
+	background-color: #212124
+}
+h1 {
+	font-family: Arial;
+	text-align:center;
+	color: #FFFFFF;
+}
+
+h2 {
+	font-family: Arial;
+	color: #FFFFFF;
+}
+
+p {
+	color: #FFFFFF;
+	font-family: Arial;
+}
+
+ul {
+	font-family: Arial;
+	color: #FFFFFF;
 }
