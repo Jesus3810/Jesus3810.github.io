@@ -3,23 +3,27 @@ body {
 }
 h1 {
 	font-family: Arial;
+	font-size: 3em;
 	text-align:center;
 	color: #FFFFFF;
 }
 
 h2 {
 	font-family: Arial;
+	font-size: 2em;
 	color: #FFFFFF;
 }
 
 p {
 	color: #FFFFFF;
 	font-family: Arial;
+	font-size: 1.5em;
 }
 
 ul {
 	font-family: Arial;
 	color: #FFFFFF;
+	font-size: 1.5em;
 }
 
 .center {
