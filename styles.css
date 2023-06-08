@@ -20,10 +20,33 @@ p {
 	font-size: 1.5em;
 }
 
-ul {
+#pythonID {
 	font-family: Arial;
-	color: #FFFFFF;
-	font-size: 1.5em;
+	color: #64D338;
+	font-size: 1.3em;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+a {
+	font-size: 1.3rem;
+}
+
+#jsID {
+	font-family: Arial;
+	color: #3966E8;
+	font-size: 1.3em;
+}
+
+#swiftID {
+	font-family: Arial;
+	color: #EE8528;
+	font-size: 1.3em;
 }
 
 .center {
