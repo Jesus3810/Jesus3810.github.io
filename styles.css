@@ -48,14 +48,3 @@ a {
 	color: #EE8528;
 	font-size: 1.3em;
 }
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
-}
-
-a {
-	font-size: 1.3rem;
-}
